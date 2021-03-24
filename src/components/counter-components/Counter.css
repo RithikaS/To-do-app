@@ -1,0 +1,19 @@
+button{
+    background-color: green;
+    font-size: 16px;
+    padding: 15px 30px;
+    color: white;
+    margin-left: 10px;
+    width: 70px;
+
+}
+.counter{
+    text-align: center;
+}
+.count{
+    padding: 10px;
+}
+.reset-btn{
+    background-color: red;
+    width: 100px;
+}
