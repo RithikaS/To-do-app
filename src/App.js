@@ -1,12 +1,12 @@
 //import logo from './logo.svg';
 import './App.css';
-import Click from './components/todo-components/click';
+import Counter from './components/counter-components/Counter';
 
 
 function App() {
   return (
     <div className="App">
-      <Click></Click>
+      <Counter/>
     </div>
   );
 }
